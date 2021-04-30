@@ -1,0 +1,23 @@
+form{
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+
+label{
+    font-weight: 800;
+}
+
+#nameInput{
+    margin-top: 10px;
+}
+
+#messageInput{
+    margin-top: 10px;
+}
+
+#btn{
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+}
